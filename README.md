@@ -4,4 +4,4 @@ Once loaded the game runs forever. Controls to the snake are provided through ph
 
 Each "pixel" is controlled through three separate wires that determine the color. Because only one line can be changed at a time manual refreshing in software is necessary.
 
-https://player.vimeo.com/video/1120961202 
+[![Watch](https://i.ibb.co/84RncWsV/Screenshot-2025-09-22-at-17-09-39-snake-game-demo-on-Vimeo.png)](https://vimeo.com/1120961202)
